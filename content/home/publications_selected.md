@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Browse all publications and working papers [here]({{< ref "/publication/_index.md" >}}).
+Browse all publications [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

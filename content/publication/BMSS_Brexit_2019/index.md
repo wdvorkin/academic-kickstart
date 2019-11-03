@@ -3,7 +3,7 @@
 
 title: "The Costs of Economic Nationalism: Evidence from the Brexit Experiment"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2019-11-01T22:11:49+01:00
+date: 2019-10-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

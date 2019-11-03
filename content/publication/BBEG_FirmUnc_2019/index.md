@@ -3,7 +3,7 @@
 
 title: "Time-Varying Business Volatility and the Price Setting of Firms"
 authors: ["Rüdiger Bachmann", "Benjamin Born", "Steffen Elstner", "Christian Grimme"]
-date: 2019-10-31T17:30:54+01:00
+date: 2019-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
