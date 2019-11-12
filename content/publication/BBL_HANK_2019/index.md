@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Costs of Economic Nationalism: Evidence from the Brexit Experiment"
-authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2019-10-01
+title: "Shocks, Frictions, and Inequality in US Business Cycles"
+authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
+date: 2019-10-31
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,30 +13,26 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Economic Journal***, 129 (10), pp. 2722–2744"
+publication: "Work in Progress"
 publication_short: ""
 
-abstract: "Economic nationalism is on the rise, but at what cost? We study this question using the unexpected outcome of the Brexit vote as a natural macroeconomic experiment. Employing synthetic control methods, we first show that the Brexit vote has caused a UK output loss of 1.7-2.5 percent by year-end 2018. An expectations-augmented VAR suggests that these costs are to a large extent driven by a downward revision of growth expectations in response to the vote. Linking quasi-experimental identification to structural time-series estimation allows us to not only quantify the aggregate costs but also to understand the channels through which expected economic disintegration impacts the macroeconomy."
+abstract: "In how far does inequality matter for the business cycle and vice versa? Using a Bayesian likelihood approach, we estimate a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice between liquid and illiquid assets. The model enlarges the set of shocks and frictions in Smets and Wouters (2007) by allowing for shocks to income risk and portfolio liquidity. We find income risk to be an important driver of output and consumption. This makes US recessions more de- mand driven relative to the otherwise identical complete markets benchmark (RANK). The HANK model further implies that business cycle shocks and policy responses have significantly contributed to the evolution of US wealth and income inequality."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: []
 categories: []
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Published Version
-  url: "https://academic.oup.com/ej/article/129/623/2722/5506774?guestAccessKey=4e92e28d-af1b-48d1-a373-cff0325d35d7"
-- name: Ungated
-  url: files/BMSS_Brexit_2019.pdf
-- name: VoxEU
-  url: "http://voxeu.org/article/300-million-week-output-cost-brexit-vote"
+- name: Working Paper
+  url: files/BBL_2019.pdf
 
 url_pdf:
 url_code:
