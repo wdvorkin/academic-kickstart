@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Under fixed exchange rates, fiscal policy is an effective tool. According to classical views because it impacts the real exchange rate, according to Keynesian views because it impacts output. Both views have merit because the effects of government spending are asymmetric. A spending cut lowers output but does not alter the real exchange rate. A spending increase appreciates the exchange rate but does not alter output unless there is economic slack. We establish these results in a small open economy model with downward nominal wage rigidity and provide empirical evidence on the basis of quarterly time-series data for 38 countries."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " "
 
 tags: []
 categories: []

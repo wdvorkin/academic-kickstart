@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Precautionary pricing in representative agent DSGE models with nominal rigidities is commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. We use a New Keynesian model as a business cycle accounting device to construct aggregate markups from the data. Time-series techniques are employed to study the conditional comovement between markups and output. Consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. The evidence for price markups, on the other hand, is mixed, both at the aggregate as well as at the industry level, regardless of whether it is measured along the labor or the intermediate input margin."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " "
 
 tags: []
 categories: []

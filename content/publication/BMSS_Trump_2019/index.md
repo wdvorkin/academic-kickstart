@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stable Genius? The Macroeconomic Impact of Trump"
+title: "The Macroeconomic Impact of Trump"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
 date: 2019-06-10
 doi: ""
@@ -16,13 +16,13 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "r&r at ***Journal of Money, Credit and Banking***"
 publication_short: ""
 
-abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years since he took office, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump—-we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic “doppelganger”. For now there is little evidence for a Trump effect.
+abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years of his presidential term, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump--we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic "doppelganger". There is little evidence for a Trump effect.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "revised & resubmitted to ***Journal of Money, Credit and Banking***"
 
 tags: []
 categories: []
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP13798
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798"
 - name: Ungated
-  url: files/BMSS_Trump_2019.pdf
+  url: files/BMSS_Trump_2020.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy"
 

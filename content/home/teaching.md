@@ -1,7 +1,7 @@
 ---
 title: Teaching
 summary:
-date: 2019-11-02
+date: 2020-01-30
 weight: 120
 
 reading_time: false  # Show estimated reading time?
@@ -14,7 +14,7 @@ header:
   caption: ""
   image: ""
 ---
-#### Fall 2019
+#### Spring 2020
 
 * Macroeconomics (B.Sc.)
 * Global Economy (Bocconi@FrankfurtSchool EMBA)
