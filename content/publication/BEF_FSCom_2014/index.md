@@ -24,7 +24,7 @@ abstract: "Central banks regularly communicate about financial stability issues.
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["select"]
 categories: []
 featured: false
 

@@ -3,7 +3,7 @@
 
 title: "Different no more: Country spreads in advanced and emerging economies"
 authors: ["Benjamin Born", "Gernot J. Müller", "Johannes Pfeifer", "Susanne Wellmann"]
-date: 2020-01-27
+date: 2020-02-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Submitted"
 publication_short: ""
 
-abstract: "Interest-rate spreads fluctuate widely across time and countries. We illustrate this on the basis of about 3,100 quarterly observations for 21 advanced and 17 emerging economies since the early 1990s. Prior to the financial crisis, spread fluctuations in advanced economies are an order of magnitude smaller than in emerging economies. After 2008 their behavior has largely converged along a number of dimensions. We also provide evidence on the transmission of spread shocks and find it similar across sample periods and country groups. The importance of spread shocks as a source of output fluctuations in advanced economies has increased after 2008."
+abstract: "Interest-rate spreads fluctuate widely across time and countries. We characterize their behavior using some 3,200 quarterly observations for 21 advanced and 17 emerging economies since the early 1990s. Before the financial crisis, spreads are 10 times more volatile in emerging economies than in advanced economies. Since 2008, the behavior of spreads has converged across country groups, largely because it has adjusted in advanced economies. We also provide evidence on the transmission of spread shocks and find it similar across sample periods and country groups. Spread shocks have become a more important source of output fluctuations in advanced economies after 2008."
 
 # Summary. An optional shortened abstract.
 summary: " "
@@ -31,10 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-#- name: CEPR DP14073
-#  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14073"
+- name: CEPR DP14073
+  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14392"
 - name: Ungated
-  url: files/BMPW_Spreads_Jan2020.pdf
+  url: files/BMPW_Spreads_Feb2020.pdf
 
 url_pdf:
 url_code:
