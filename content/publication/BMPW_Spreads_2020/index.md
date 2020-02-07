@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14073
+- name: CEPR DP14392
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14392"
 - name: Ungated
   url: files/BMPW_Spreads_Feb2020.pdf
