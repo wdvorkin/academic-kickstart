@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uncertainty-driven Business Cycles: Assessing the Markup Channel"
-authors: ["Benjamin Born", "Johannes Pfeifer"]
-date: 2020-04-09
+title: "The Coronavirus Stimulus Package: How large is the transfer multiplier?"
+authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke", "Gernot J. Müller"]
+date: 2020-04-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R at ***Quantitative Economics***"
+publication: ""
 publication_short: ""
 
-abstract: "Precautionary pricing and increasing markups in representative-agent DSGE models with nominal rigidities are commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. We use a New Keynesian model as a business cycle accounting device to construct aggregate markups from the data. Time-series techniques are employed to study the conditional comovement between markups and uncertainty. Consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. The impulse responses of price markups, on the other hand, are largely inconsistent with the standard model, both at the aggregate as well as at the industry level, regardless of whether it is measured along the intensive labor or the intermediate input margin. The only exception is the extensive labor margin, where price markups tend to increase, indicating the potential for search-and-matching models to deliver data-consistent responses to uncertainty shocks."
+abstract: "In response to the COVID-19 pandemic, large parts of the economy have been locked down and, as a result, households' income risk has risen sharply. At the same time, policy makers have put forward the largest stimulus package in history. In the U.S., it amounts to $2 trillion, a quarter of which are transfers to households. To the extent that these transfers are conditional on being unemployed, they mitigate income risk and the adverse impact of the lockdown ex ante. Unconditional transfers, in contrast, stabilize income ex post only. The conditional and unconditional transfer component of the Coronavirus stimulus package are of equal size. We quantify their effect in an estimated HANK model. For unconditional transfers, the multiplier ranges between 0.1 and 0.5, for conditional transfers between 1 and 2. The actual transfers of the stimulus reduce the output loss due to the lockdown by about 50 percent."
 
 # Summary. An optional shortened abstract.
 summary: " "
@@ -31,10 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP11745
-  url: "http://cepr.org/active/publications/discussion_papers/dp.php?dpno=11745"
-- name: Ungated
-  url: files/BP_2020_markup.pdf
+#- name: CEPR DP14364
+#  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14364"
+- name: Working Paper
+  url: files/BBLM_Covid_2020.pdf
 
 url_pdf:
 url_code:
