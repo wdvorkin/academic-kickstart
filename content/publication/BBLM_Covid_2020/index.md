@@ -3,7 +3,7 @@
 
 title: "The Coronavirus Stimulus Package: How large is the transfer multiplier?"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke", "Gernot J. Müller"]
-date: 2020-04-10
+date: 2020-04-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,9 @@ links:
 - name: CEPR DP14600
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14600"
 - name: Ungated
-  url: files/BBLM_Covid_2020.pdf
+  url: files/BBLM_COVID_2020.pdf
+- name: VoxEU
+  url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 
 url_pdf:
 url_code:

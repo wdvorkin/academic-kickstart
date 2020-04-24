@@ -3,7 +3,7 @@
 
 title: "The Macroeconomic Impact of Trump"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2020-01-01
+date: 2020-04-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

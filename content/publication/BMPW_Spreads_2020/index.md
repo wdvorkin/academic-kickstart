@@ -35,6 +35,8 @@ links:
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14392"
 - name: Ungated
   url: files/BMPW_Spreads_Feb2020.pdf
+- name: VoxEU
+  url: "https://voxeu.org/article/country-spreads-advanced-and-emerging-economies"
 
 url_pdf:
 url_code:
