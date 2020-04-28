@@ -39,7 +39,7 @@ links:
   url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
 url_pdf:
-url_code:
+url_code: "https://github.com/BenjaminBorn/HANK_BusinessCycleAndInequality"
 url_dataset:
 url_poster:
 url_project:
