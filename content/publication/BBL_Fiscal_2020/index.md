@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The worst of both worlds: Fiscal policy and fixed exchange rates"
-authors: ["Benjamin Born", "Francesco D’Ascanio", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2019-10-21
+title: "The Liquidity Channel of Fiscal Policy"
+authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
+date: 2020-06-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Submitted"
 publication_short: ""
 
-abstract: "Under fixed exchange rates, fiscal policy is an effective tool. According to classical views because it impacts the real exchange rate, according to Keynesian views because it impacts output. Both views have merit because the effects of government spending are asymmetric. A spending cut lowers output but does not alter the real exchange rate. A spending increase appreciates the exchange rate but does not alter output unless there is economic slack. We establish these results in a small open economy model with downward nominal wage rigidity and provide empirical evidence on the basis of quarterly time-series data for 38 countries."
+abstract: " We provide evidence that expansionary fiscal policy lowers the return difference between more and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice, in which public debt affects private liquidity. In this environment, the short-run fiscal multiplier is amplified by the countercyclical liquidity premium. This liquidity channel stabilizes investment and crowds in consumption. We then quantify the long-run effects of higher public debt, and find a sizable decline of the liquidity premium, increasing the fiscal burden of debt, but little crowding out of capital."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []
@@ -31,10 +31,12 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14073
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14073"
+- name: CEPR DP14883
+  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14883"
 - name: Ungated
-  url: files/BDMP_WoW_Oct2019.pdf
+  url: files/BBL_Fiscal_Liquidity_June_2020.pdf
+#- name: VoxEU
+#  url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
 url_pdf:
 url_code:

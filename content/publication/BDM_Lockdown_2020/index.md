@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: ""
 publication_short: ""
 
 abstract: Is a lockdown an effective means to limit the spread of the COVID-19 pandemic? We study the case of Sweden - one of the few countries without a lockdown - and use synthetic control techniques to develop a counterfactual lockdown scenario. First, we use a “donor pool” of European countries to construct a doppelganger that behaves just like Sweden in terms of infections before the lockdown. Second, we find that infection dynamics in the doppelganger since the lockdown do not systematically differ from the actual dynamics in Sweden. Third, we study Google mobility data and find that Swedes adjusted their activities in similar ways as in the doppelganger, although to a somewhat lesser extent.
