@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Precautionary pricing and increasing markups in representative-agent DSGE models with nominal rigidities are commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. We use a New Keynesian model as a business cycle accounting device to construct aggregate markups from the data. Time-series techniques are employed to study the conditional comovement between markups and uncertainty. Consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. The impulse responses of price markups, on the other hand, are largely inconsistent with the standard model, both at the aggregate as well as at the industry level, regardless of whether it is measured along the intensive labor or the intermediate input margin. The only exception is the extensive labor margin, where price markups tend to increase, indicating the potential for search-and-matching models to deliver data-consistent responses to uncertainty shocks."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []

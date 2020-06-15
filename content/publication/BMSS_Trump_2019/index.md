@@ -13,7 +13,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years of his presidential term, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump--we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic "doppelganger". There is little evidence for a Trump effect.
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []

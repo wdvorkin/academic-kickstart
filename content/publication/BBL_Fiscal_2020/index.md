@@ -16,10 +16,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: ""
 publication_short: ""
 
-abstract: " We provide evidence that expansionary fiscal policy lowers the return difference between more and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice, in which public debt affects private liquidity. In this environment, the short-run fiscal multiplier is amplified by the countercyclical liquidity premium. This liquidity channel stabilizes investment and crowds in consumption. We then quantify the long-run effects of higher public debt, and find a sizable decline of the liquidity premium, increasing the fiscal burden of debt, but little crowding out of capital."
+abstract: "We provide evidence that expansionary fiscal policy lowers the return difference between more and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice, in which public debt affects private liquidity. In this environment, the short-run fiscal multiplier is amplified by the countercyclical liquidity premium. This liquidity channel stabilizes investment and crowds in consumption. We then quantify the long-run effects of higher public debt, and find a sizable decline of the liquidity premium, increasing the fiscal burden of debt, but little crowding out of capital."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "How much does inequality matter for the business cycle and vice versa? Using a Bayesian likelihood approach, we estimate a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice between liquid and illiquid assets. The model enlarges the set of shocks and frictions in Smets and Wouters (2007) by allowing for shocks to income risk and taxes. We find that adding data on inequality does not materially change the estimated shocks and frictions driving the US business cycle. The estimated shocks, however, have significantly contributed to the evolution of US wealth and income inequality. The systematic components of monetary and fiscal policy are important for inequality as well."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []

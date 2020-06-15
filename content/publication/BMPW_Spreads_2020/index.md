@@ -16,13 +16,13 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: ""
 publication_short: ""
 
 abstract: "Interest-rate spreads fluctuate widely across time and countries. We characterize their behavior using some 3,200 quarterly observations for 21 advanced and 17 emerging economies since the early 1990s. Before the financial crisis, spreads are 10 times more volatile in emerging economies than in advanced economies. Since 2008, the behavior of spreads has converged across country groups, largely because it has adjusted in advanced economies. We also provide evidence on the transmission of spread shocks and find it similar across sample periods and country groups. Spread shocks have become a more important source of output fluctuations in advanced economies after 2008."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []

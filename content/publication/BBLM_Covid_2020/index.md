@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "In response to the COVID-19 pandemic, large parts of the economy have been locked down and, as a result, households' income risk has risen sharply. At the same time, policy makers have put forward the largest stimulus package in history. In the U.S., it amounts to $2 trillion, a quarter of which are transfers to households. To the extent that these transfers are conditional on being unemployed, they mitigate income risk and the adverse impact of the lockdown ex ante. Unconditional transfers, in contrast, stabilize income ex post only. The conditional and unconditional transfer component of the Coronavirus stimulus package are of equal size. We quantify their effect in an estimated HANK model. For unconditional transfers, the multiplier ranges between 0.1 and 0.5, for conditional transfers between 1 and 2. The actual transfers of the stimulus reduce the output loss due to the lockdown by about 50 percent."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: ""
 
 tags: []
 categories: []
