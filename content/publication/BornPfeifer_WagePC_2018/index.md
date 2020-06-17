@@ -3,7 +3,7 @@
 
 title: "The New Keynesian Wage Phillips Curve: Calvo vs. Rotemberg"
 authors: ["Benjamin Born", "Johannes Pfeifer"]
-date: "2019-11-01"
+date: "2020-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Macroeconomic Dynamics***, accepted"
+publication: "***Macroeconomic Dynamics***, 24(5), pp. 1017–1041"
 publication_short: ""
 
 abstract: "We systematically evaluate how to translate a Calvo wage duration into an implied Rotemberg wage adjustment cost parameter in medium-scale New Keynesian DSGE models by making use of the well-known equivalence of the two setups at first order. We consider a wide range of felicity functions and show that the assumed household insurance scheme and the presence of labor taxation greatly matter for this mapping, giving rise to differences of up to one order of magnitude. Our results account for the inclusion of wage indexing, habit formation in consumption, and the presence of fixed costs in production. We also investigate the conditional and unconditional welfare implications of the wage setting schemes under efficient and distorted steady states."
