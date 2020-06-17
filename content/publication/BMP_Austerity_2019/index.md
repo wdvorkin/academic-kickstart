@@ -3,7 +3,7 @@
 
 title: "Does Austerity Pay Off?"
 authors: ["Benjamin Born", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2019-11-01T21:56:04+01:00
+date: 2020-05-01T21:56:04+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
