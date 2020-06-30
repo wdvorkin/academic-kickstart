@@ -3,7 +3,7 @@
 
 title: "The Coronavirus Stimulus Package: How large is the transfer multiplier?"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke", "Gernot J. Müller"]
-date: 2020-04-24
+date: 2020-06-30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In response to the COVID-19 pandemic, large parts of the economy have been locked down and, as a result, households' income risk has risen sharply. At the same time, policy makers have put forward the largest stimulus package in history. In the U.S., it amounts to $2 trillion, a quarter of which are transfers to households. To the extent that these transfers are conditional on being unemployed, they mitigate income risk and the adverse impact of the lockdown ex ante. Unconditional transfers, in contrast, stabilize income ex post only. The conditional and unconditional transfer component of the Coronavirus stimulus package are of equal size. We quantify their effect in an estimated HANK model. For unconditional transfers, the multiplier ranges between 0.1 and 0.5, for conditional transfers between 1 and 2. The actual transfers of the stimulus reduce the output loss due to the lockdown by about 50 percent."
+abstract: "In response to the COVID-19 pandemic, large parts of the economy have been locked down and, as a result, households' income risk has risen sharply. At the same time, policy makers have put forward the largest stimulus package in history. In the U.S., it amounts to $2 trillion, a quarter of which is earmarked for transfer payments to households. To the extent that such transfers are conditional on recipients being unemployed, they mitigate income risk and the adverse impact of the lockdown ex ante. Unconditional transfers, in contrast, stabilize income ex post. We simulate the effects of a lockdown in a medium-scale HANK model and quantify the impact of transfers. For the short run, we find large differences in the transfer multiplier: it is 0.25 for unconditional transfers and 1.5 for conditional transfers. Overall, we find that the transfers reduce the output loss due to the pandemic by up to 5 percentage points."
 
 # Summary. An optional shortened abstract.
 summary: ""
