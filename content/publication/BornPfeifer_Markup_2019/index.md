@@ -3,7 +3,7 @@
 
 title: "Uncertainty-driven Business Cycles: Assessing the Markup Channel"
 authors: ["Benjamin Born", "Johannes Pfeifer"]
-date: 2020-04-09
+date: 2020-09-08
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,28 +13,28 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conditionally accepted at ***Quantitative Economics***"
+publication: "***Quantitative Economics***, forthcoming"
 publication_short: ""
 
-abstract: "Precautionary pricing and increasing markups in representative-agent DSGE models with nominal rigidities are commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. We use a New Keynesian model as a business cycle accounting device to construct aggregate markups from the data. Time-series techniques are employed to study the conditional comovement between markups and uncertainty. Consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. The impulse responses of price markups, on the other hand, are largely inconsistent with the standard model, both at the aggregate as well as at the industry level, regardless of whether it is measured along the intensive labor or the intermediate input margin. The only exception is the extensive labor margin, where price markups tend to increase, indicating the potential for search-and-matching models to deliver data-consistent responses to uncertainty shocks."
+abstract: "Precautionary pricing and increasing markups in representative-agent DSGE models with nominal rigidities are commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. Three things stand out. First, consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. Second, the impulse responses of price markups are largely inconsistent with the standard model, both at the aggregate as well as the industry level. Finally, and in contrast to times-series evidence, our theoretical model robustly predicts that uncertainty shocks have a quantitatively small impact on the economy."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["select"]
 categories: []
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP11745
-  url: "http://cepr.org/active/publications/discussion_papers/dp.php?dpno=11745"
+#- name: CEPR DP11745
+#  url: "http://cepr.org/active/publications/discussion_papers/dp.php?dpno=11745"
 - name: Ungated
-  url: files/BP_2020_markup.pdf
+  url: files/BP_2020_markup_wp.pdf
 
 url_pdf:
 url_code:
