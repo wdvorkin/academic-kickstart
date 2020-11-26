@@ -3,7 +3,7 @@
 
 title: "The lockdown effect: A counterfactual for Sweden"
 authors: ["Benjamin Born", "Alexander Dietrich", "Gernot J. Müller"]
-date: 2020-07-23
+date: 2020-11-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We quantify the lockdown effect: the  extent to which a lockdown limits the spread of COVID-19 infections. For this purpose we focus on Sweden---one of the few countries without a lockdown---and use synthetic control techniques to develop a counterfactual lockdown scenario. Based on a donor pool of European countries, we construct a control unit that behaves just like Sweden in terms of infection dynamics before it is put under lockdown for 8.5 weeks. The outcome in the control unit approximates the counterfactual lockdown scenario for Sweden. Three findings stand out. First, at the end of the lockdown period, COVID-19 infections and deaths in Sweden would have been reduced by one half and one third, respectively. Second, the lockdown effect starts to materialize with a delay of 3 to 4 weeks only. Third, we analyze Google mobility reports and find that actual mobility adjustments in Sweden are similar to those in the control unit---in both cases there is evidence for social distancing, but more so in the control unit."
+abstract: "While most countries imposed a lockdown in response to COVID-19, Sweden did not. To quantify the lockdown effect, we approximate a counterfactual lockdown scenario for Sweden through the outcome in a synthetic control unit. We find, first, that a 9-week lockdown in the first half of 2020 would have reduced infections and deaths by about 75% and 50%, respectively. Second, the lockdown effect starts to materialize with a delay of 3-4 weeks only. Third, the actual adjustment of mobility patterns in Sweden suggests there has been substantial voluntary social restraint, although the adjustment was less strong than under the lockdown scenario. Lastly, we find that a lockdown would not have caused much additional output loss."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14744
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14744"
 - name: Ungated
-  url: files/BDM_Lockdown_Jul2020.pdf
+  url: files/BDM_Lockdown_Nov2020.pdf
 - name: Covid Economics Issue 16 (old)
   url: "https://cepr.org/sites/default/files/news/CovidEconomics16.pdf"
 #- name: VoxEU

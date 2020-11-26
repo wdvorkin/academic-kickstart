@@ -3,7 +3,7 @@
 
 title: "Shocks, Frictions, and Inequality in US Business Cycles"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2020-01-29
+date: 2020-11-26
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "How much does inequality matter for the business cycle and vice versa? Using a Bayesian likelihood approach, we estimate a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice between liquid and illiquid assets. The model enlarges the set of shocks and frictions in Smets and Wouters (2007) by allowing for shocks to income risk and taxes. We find that adding data on inequality does not materially change the estimated shocks and frictions driving the US business cycle. The estimated shocks, however, have significantly contributed to the evolution of US wealth and income inequality. The systematic components of monetary and fiscal policy are important for inequality as well."
+abstract: "How much does inequality matter for the business cycle and vice versa? Using a Bayesian likelihood approach, we estimate a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice between liquid and illiquid assets. Even when the model is estimated  on aggregate data only and with only a set of shocks and frictions along the lines of Smets and Wouters (2007), it reproduces observed US inequality dynamics.  In other words, the model is successful in simultaneously accounting for cycle and distribution. Output stabilization via monetary or fiscal policy also stabilizes inequality."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14364
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14364"
 - name: Ungated
-  url: files/BBL_Inequality_Jan_2020.pdf
+  url: files/BBL_Inequality_Nov2020.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
