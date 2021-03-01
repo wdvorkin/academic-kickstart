@@ -35,8 +35,7 @@ links:
   url: "https://doi.org/10.1162/rest_a_00844"
 - name: Ungated
   url: files/BMP_Austerity_2019.pdf
-- name: Fiscal Shock Series
-  url_dataset: files/BMP_shocks.xlsx
+# - name: Fiscal Shock Series
 #- name: Earlier CEPR DP10425
 #  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
 - name: VoxEU
@@ -46,7 +45,7 @@ links:
 
 url_pdf:
 url_code:
-url_dataset:
+url_dataset: files/BMP_shocks.xlsx
 url_poster:
 url_project:
 url_slides:
