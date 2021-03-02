@@ -3,7 +3,7 @@
 
 title: "The lockdown effect: A counterfactual for Sweden"
 authors: ["Benjamin Born", "Alexander Dietrich", "Gernot J. Müller"]
-date: 2020-11-01
+date: 2021-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14744
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14744"
 - name: Ungated
-  url: files/BDM_Lockdown_Nov2020.pdf
+  url: files/BDM_Lockdown_Mar2021.pdf
 - name: Covid Economics Issue 16 (old)
   url: "https://cepr.org/sites/default/files/news/CovidEconomics16.pdf"
 # - name: Replication Files
