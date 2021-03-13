@@ -3,7 +3,7 @@
 
 title: "The Macroeconomic Impact of Trump"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2020-01-01
+date: 2021-03-13
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revise & resubmit at Policy Studies*"
+publication: "*Revised & resubmitted to Policy Studies*"
 publication_short: ""
 
-abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years of his presidential term, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump - we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic "doppelganger". There is little evidence for a Trump effect.
+abstract: Donald Trump was President of the United States from January 2017 to January 2021. During that time, except for the period since spring 2020 when the COVID-19 pandemic took its toll on economic activity, the US economy has been doing very well according to key indicators like the unemployment rate and GDP growth. Does Trump deserve credit for the booming economy? To address this question, we develop a counterfactual scenario for how the US economy would have evolved without Trump—we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the performance of the US economy during Trump’s Presidency to this synthetic “doppelganger”. There is little evidence for a Trump effect.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP13798
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798"
 - name: Ungated
-  url: files/BMSS_Trump_2020.pdf
+  url: files/BMSS_Trump_March2021.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy"
 
