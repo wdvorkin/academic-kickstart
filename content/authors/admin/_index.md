@@ -23,9 +23,10 @@ organizations:
 bio: Benjamin Born is an Associate Professor of Macroeconomics at Frankfurt School of Finance & Management.
 
 interests:
-- Fiscal and Monetary Policy
 - Business Cycles
-- Empirical Macroeconomics
+- Fiscal and Monetary Policy
+- Heterogeneous Agents
+- Empirical Methods
 
 education:
   courses:
