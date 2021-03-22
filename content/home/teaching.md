@@ -14,7 +14,7 @@ header:
   caption: ""
   image: ""
 ---
-#### Spring 2020
+#### Spring/Summer 2021
 
 * Macroeconomics (B.Sc.)
 * Global Economy (Bocconi@FrankfurtSchool EMBA)

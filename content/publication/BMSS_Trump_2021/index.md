@@ -3,7 +3,7 @@
 
 title: "The Macroeconomic Impact of Trump"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2021-03-13
+date: 2021-03-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revised & resubmitted to Policy Studies*"
+publication: "***Policy Studies***, forthcoming"
 publication_short: ""
 
 abstract: Donald Trump was President of the United States from January 2017 to January 2021. During that time, except for the period since spring 2020 when the COVID-19 pandemic took its toll on economic activity, the US economy has been doing very well according to key indicators like the unemployment rate and GDP growth. Does Trump deserve credit for the booming economy? To address this question, we develop a counterfactual scenario for how the US economy would have evolved without Trump—we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the performance of the US economy during Trump’s Presidency to this synthetic “doppelganger”. There is little evidence for a Trump effect.

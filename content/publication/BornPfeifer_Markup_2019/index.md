@@ -3,7 +3,7 @@
 
 title: "Uncertainty-driven Business Cycles: Assessing the Markup Channel"
 authors: ["Benjamin Born", "Johannes Pfeifer"]
-date: 2020-09-08
+date: 2021-03-21
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,11 +33,13 @@ featured: false
 links:
 #- name: CEPR DP11745
 #  url: "http://cepr.org/active/publications/discussion_papers/dp.php?dpno=11745"
+- name: Published Version
+  url: https://qeconomics.org/ojs/forth/1297/1297-4.pdf
 - name: Ungated
   url: files/BP_2020_markup_wp.pdf
 
 url_pdf:
-url_code:
+url_code: https://qeconomics.org/ojs/forth/1297/QE1297_code_and_data.zip
 url_dataset:
 url_poster:
 url_project:
