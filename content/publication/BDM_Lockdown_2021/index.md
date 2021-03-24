@@ -3,7 +3,7 @@
 
 title: "The lockdown effect: A counterfactual for Sweden"
 authors: ["Benjamin Born", "Alexander Dietrich", "Gernot J. Müller"]
-date: 2021-03-01
+date: 2021-03-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revised & resubmitted to PLOS ONE*"
+publication: "***PLOS ONE***, forthcoming"
 publication_short: ""
 
 abstract: "While most countries imposed a lockdown in response to COVID-19, Sweden did not. To quantify the lockdown effect, we approximate a counterfactual lockdown scenario for Sweden through the outcome in a synthetic control unit. We find, first, that a 9-week lockdown in the first half of 2020 would have reduced infections and deaths by about 75% and 38%, respectively. Second, the lockdown effect starts to materialize with a delay of 3-4 weeks only. Third, the actual adjustment of mobility patterns in Sweden suggests there has been substantial voluntary social restraint, although the adjustment was less strong than under the lockdown scenario. Lastly, we find that a lockdown would not have caused much additional output loss."
